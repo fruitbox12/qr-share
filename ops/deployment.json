@@ -1,0 +1,122 @@
+{
+    "height": "3077317",
+    "txhash": "608D128A730DFB5313E1BDE9AAEABD19A85BB137E90D7854CEF86D1BA55DB86C",
+    "codespace": "",
+    "code": 0,
+    "data": "0A130A116372656174652D6465706C6F796D656E74",
+    "raw_log": "[{\"events\":
+    [{\"type\":\"akash.v1\",\"attributes\":[{\"key\":\"module\",\"value\":\"deployment\"},{\"key\":\"action\",\"value\":\"deployment-created\"},{\"key\":\"version\",\"value\":\"a77b6dcf64a06ec7117fb05c5b8937a8db8c576ee2e85fecc81ea9faea568890\"},{\"key\":\"owner\",\"value\":\"akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad\"},{\"key\":\"dseq\",\"value\":\"3077316\"},{\"key\":\"module\",\"value\":\"market\"},{\"key\":\"action\",\"value\":\"order-created\"},{\"key\":\"owner\",\"value\":\"akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad\"},{\"key\":\"dseq\",\"value\":\"3077316\"},{\"key\":\"gseq\",\"value\":\"1\"},{\"key\":\"oseq\",\"value\":\"1\"}]},{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"create-deployment\"},{\"key\":\"sender\",\"value\":\"akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad\"},{\"key\":\"sender\",\"value\":\"akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad\"}]},{\"type\":\"transfer\",\"attributes\":[{\"key\":\"recipient\",\"value\":\"akash17xpfvakm2amg962yls6f84z3kell8c5lazw8j8\"},{\"key\":\"sender\",\"value\":\"akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad\"},{\"key\":\"amount\",\"value\":\"5000uakt\"},{\"key\":\"recipient\",\"value\":\"akash14pphss726thpwws3yc458hggufynm9x77l4l2u\"},{\"key\":\"sender\",\"value\":\"akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad\"},{\"key\":\"amount\",\"value\":\"5000000uakt\"}]}]}]",
+    "logs":
+    [
+        {
+            "msg_index": 0,
+            "log": "",
+            "events":
+            [
+                {
+                    "type": "akash.v1",
+                    "attributes":
+                    [
+                        {
+                            "key": "module",
+                            "value": "deployment"
+                        },
+                        {
+                            "key": "action",
+                            "value": "deployment-created"
+                        },
+                        {
+                            "key": "version",
+                            "value": "a77b6dcf64a06ec7117fb05c5b8937a8db8c576ee2e85fecc81ea9faea568890"
+                        },
+                        {
+                            "key": "owner",
+                            "value": "akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad"
+                        },
+                        {
+                            "key": "dseq",
+                            "value": "3077316"
+                        },
+                        {
+                            "key": "module",
+                            "value": "market"
+                        },
+                        {
+                            "key": "action",
+                            "value": "order-created"
+                        },
+                        {
+                            "key": "owner",
+                            "value": "akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad"
+                        },
+                        {
+                            "key": "dseq",
+                            "value": "3077316"
+                        },
+                        {
+                            "key": "gseq",
+                            "value": "1"
+                        },
+                        {
+                            "key": "oseq",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "type": "message",
+                    "attributes":
+                    [
+                        {
+                            "key": "action",
+                            "value": "create-deployment"
+                        },
+                        {
+                            "key": "sender",
+                            "value": "akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad"
+                        },
+                        {
+                            "key": "sender",
+                            "value": "akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad"
+                        }
+                    ]
+                },
+                {
+                    "type": "transfer",
+                    "attributes":
+                    [
+                        {
+                            "key": "recipient",
+                            "value": "akash17xpfvakm2amg962yls6f84z3kell8c5lazw8j8"
+                        },
+                        {
+                            "key": "sender",
+                            "value": "akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad"
+                        },
+                        {
+                            "key": "amount",
+                            "value": "5000uakt"
+                        },
+                        {
+                            "key": "recipient",
+                            "value": "akash14pphss726thpwws3yc458hggufynm9x77l4l2u"
+                        },
+                        {
+                            "key": "sender",
+                            "value": "akash1wl9c7jawvptt9xsx3ac58jt5lnwdxayk905fad"
+                        },
+                        {
+                            "key": "amount",
+                            "value": "5000000uakt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "info": "",
+    "gas_wanted": "200000",
+    "gas_used": "91391",
+    "tx": null,
+    "timestamp": ""
+}
